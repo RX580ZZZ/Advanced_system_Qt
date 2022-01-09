@@ -1,0 +1,14 @@
+release/Admin.o
+release/Course.o
+release/add.o
+release/change.o
+release/findcourseinfo.o
+release/information.o
+release/main.o
+release/mainwindow.o
+release/reguexpr.o
+release/moc_add.o
+release/moc_change.o
+release/moc_findcourseinfo.o
+release/moc_information.o
+release/moc_mainwindow.o

@@ -1,0 +1,14 @@
+debug/Admin.o
+debug/Course.o
+debug/add.o
+debug/change.o
+debug/findcourseinfo.o
+debug/information.o
+debug/main.o
+debug/mainwindow.o
+debug/reguexpr.o
+debug/moc_add.o
+debug/moc_change.o
+debug/moc_findcourseinfo.o
+debug/moc_information.o
+debug/moc_mainwindow.o
